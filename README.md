@@ -15,4 +15,6 @@ with the environment, a genetic algorithm will be used to calculate a new
 generation of 150 cars, with optimized neural networks
 
 link to a video: [Self-driving-cars](https://drive.google.com/file/d/1vkQGrYu5HErS0a2x8hNvlAe92Eq7PDOx/view?usp=sharing)
+
+
 Car model: ![car_model](https://github.com/TheRomanOne/Self-driving-car/blob/master/CAR.PNG?raw=true)
